@@ -1,1 +1,2 @@
 # Machine-Learning-Models
+Here we had to predict the clear date of an invoice application based on duration, invoice amount and other parameters. We performed various operations on the dataset. First we cleaned the data and split it into train, test and validation. Then we performed EDA. The next step is to extract features and feature engineer it. Then trained the model using 4 different types of regression models and selected one of them based on their MSE  and R2 square.
